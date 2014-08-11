@@ -18,4 +18,6 @@ certain quantiles of the data
 
 visualizations:
 visualizations.R - script to generate a few figures in the 
-write up
+
+write up:
+writeup.pdf
