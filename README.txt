@@ -1,9 +1,11 @@
 
+write up:
+writeup.pdf
+
 Organization of scripts:
 
 main.R : 
-The main directory of where to run 1. processing of data, 
-2. model fits, 3. verification and plots
+Runs processing of data, model fitting, and validation and plots.
 
 functions:
 brt_fit.R - functions to fit the brt model to data
@@ -17,5 +19,5 @@ verif_fn.R - verification function to calculate MSPE for
 certain quantiles of the data
 
 visualizations:
-visualizations.R - script to generate a few figures in the 
-write up
+visualizations.R - script to generate figures in paper
+
